@@ -1,0 +1,24 @@
+.dj{
+    text-align: center;
+    color: orangered;
+    height: 1200px;
+    background-image: url("website.jpg");
+    background-size: cover;
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline underline;
+}
+.second{
+    visibility: visible;
+}
+.practice{
+    box-shadow: 10px 10px 15px orangered;
+}
+.spoon{
+    border: 2px solid blue;
+    color: orangered;
+}
+li{
+    color: deeppink;
+}
